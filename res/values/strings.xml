@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crystal Ball Two</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="answers">
+        <item>It is certain</item>
+        <item>It is decidedly so</item>
+        <item>All signs say YES</item>
+        <item>The stars are not aligned</item>
+        <item>My Reply is NO</item>
+        <item>It is doubtful</item>
+        <item>Better not tell you now</item>
+        <item>Concentrate and ask again</item>
+        <item>Unable to answer now</item>
+    </string-array>
+
+</resources>
